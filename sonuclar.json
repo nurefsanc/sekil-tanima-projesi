@@ -1,0 +1,162 @@
+[
+    {
+        "renk": "kirmizi",
+        "sekil": "Daire",
+        "bbox": {
+            "x": 886,
+            "y": 537,
+            "w": 166,
+            "h": 164
+        }
+    },
+    {
+        "renk": "kirmizi",
+        "sekil": "Daire",
+        "bbox": {
+            "x": 623,
+            "y": 315,
+            "w": 148,
+            "h": 146
+        }
+    },
+    {
+        "renk": "kirmizi",
+        "sekil": "Daire",
+        "bbox": {
+            "x": 188,
+            "y": 171,
+            "w": 161,
+            "h": 159
+        }
+    },
+    {
+        "renk": "kirmizi",
+        "sekil": "Daire",
+        "bbox": {
+            "x": 471,
+            "y": 135,
+            "w": 162,
+            "h": 159
+        }
+    },
+    {
+        "renk": "yesil",
+        "sekil": "Dikdortgen",
+        "bbox": {
+            "x": 196,
+            "y": 583,
+            "w": 208,
+            "h": 126
+        }
+    },
+    {
+        "renk": "yesil",
+        "sekil": "Kare",
+        "bbox": {
+            "x": 597,
+            "y": 513,
+            "w": 211,
+            "h": 215
+        }
+    },
+    {
+        "renk": "yesil",
+        "sekil": "Dikdortgen",
+        "bbox": {
+            "x": 412,
+            "y": 486,
+            "w": 198,
+            "h": 147
+        }
+    },
+    {
+        "renk": "yesil",
+        "sekil": "Dikdortgen",
+        "bbox": {
+            "x": 1060,
+            "y": 351,
+            "w": 214,
+            "h": 154
+        }
+    },
+    {
+        "renk": "mavi",
+        "sekil": "Kare",
+        "bbox": {
+            "x": 1081,
+            "y": 547,
+            "w": 145,
+            "h": 145
+        }
+    },
+    {
+        "renk": "mavi",
+        "sekil": "Kare",
+        "bbox": {
+            "x": 129,
+            "y": 386,
+            "w": 168,
+            "h": 170
+        }
+    },
+    {
+        "renk": "mavi",
+        "sekil": "Kare",
+        "bbox": {
+            "x": 1058,
+            "y": 128,
+            "w": 152,
+            "h": 150
+        }
+    },
+    {
+        "renk": "mavi",
+        "sekil": "Kare",
+        "bbox": {
+            "x": 653,
+            "y": 86,
+            "w": 164,
+            "h": 160
+        }
+    },
+    {
+        "renk": "mavi",
+        "sekil": "Kare",
+        "bbox": {
+            "x": 277,
+            "y": 27,
+            "w": 180,
+            "h": 178
+        }
+    },
+    {
+        "renk": "sari",
+        "sekil": "Ucgen",
+        "bbox": {
+            "x": 356,
+            "y": 298,
+            "w": 157,
+            "h": 171
+        }
+    },
+    {
+        "renk": "sari",
+        "sekil": "Ucgen",
+        "bbox": {
+            "x": 850,
+            "y": 284,
+            "w": 173,
+            "h": 158
+        }
+    },
+    {
+        "renk": "sari",
+        "sekil": "Ucgen",
+        "bbox": {
+            "x": 890,
+            "y": 96,
+            "w": 171,
+            "h": 154
+        }
+    }
+]
